@@ -34,3 +34,4 @@ Gservices guide: Enable google services in settings and install play market.
 - LDAC,
 
 *FPS STUCK AT 144 always with Realking
+If fps stuck at 144 - use RefreshRateTool for changing refresh rate https://t.me/redmik20proglobalofficial/2307020
