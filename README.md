@@ -26,7 +26,7 @@
 - Only ru, eng, cn language,
 
 Give ROM settle for 12-24 hours
-Gservices guide: Enable google services in settings.
+Gservices guide: Enable google services in settings and install play market.
 
 ### BUGS:
 - Failed play integrity,
