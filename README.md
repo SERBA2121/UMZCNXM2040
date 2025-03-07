@@ -23,6 +23,7 @@
 
 - Free widgets and themes,
 - Other UI sounds
+- Only ru, eng, cn language,
 
 Give ROM settle for 12-24 hours
 Gservices guide: Enable google services in settings.
